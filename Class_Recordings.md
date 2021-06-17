@@ -10,3 +10,8 @@
 
 * Day 3: https://zoom.us/rec/share/5xMQoq05YJ_mnRbD_F-6rAgF9i4-cCUm_MMk-YgzzNBUctdW66t5rzMvQ0pBYkY-.evSyNJlntf5eTBsG
 
+## Week 2 - VBA
+
+* Day 1: https://zoom.us/rec/share/hMDVq9GIZTOwRC0GiWE_N1RwRaRbZfJQfpoOcDxHjGjlTToBNzJaYtb9TvPW25nH.ploSwOEIzLJ3pmB4
+
+
