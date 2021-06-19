@@ -14,4 +14,9 @@
 
 * Day 1: https://zoom.us/rec/share/hMDVq9GIZTOwRC0GiWE_N1RwRaRbZfJQfpoOcDxHjGjlTToBNzJaYtb9TvPW25nH.ploSwOEIzLJ3pmB4
 
+* Day 2: https://zoom.us/rec/share/a-b7ZEdU_A4LHWE_28HKkOyMXuBEj-YWh-ESuaBpgfwsfJcQetJ3RvNsm7awlDb9.bGqvezPvE4zuxIMI
+
+* Day 3: https://zoom.us/rec/share/vhgxjQqW4J97EV9AEA9uprWilact7UKjyQKzoW2RIAuUtdpclwYgd3zLlI27naDX.gITGBiYNd0GfGyr7
+
+
 
