@@ -18,5 +18,8 @@
 
 * Day 3: https://zoom.us/rec/share/vhgxjQqW4J97EV9AEA9uprWilact7UKjyQKzoW2RIAuUtdpclwYgd3zLlI27naDX.gITGBiYNd0GfGyr7
 
+## Week 3 - Python
+
+* Day 1: https://zoom.us/rec/share/W2RAfLjTZ_CTKCnXqKfmYH55QFiGwR5gMMnUZTpVRAL7jnHBjbc0ReFoOKN1XKXJ.hGZ0SiGvfMUluknj
 
 
