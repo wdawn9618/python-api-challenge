@@ -25,3 +25,8 @@
 * Day 2: https://zoom.us/rec/share/fflWD65Ln4JtqJPoj0JWDybXgmS-b130onQsayCfJIeAnoPl52M9yDjFu-vH4-61.-zSoyZuMXdarGUNX
 
 * Day 3: https://zoom.us/rec/share/jR1T5hnszNYSh49_FG7vq0jMK2kDlHProk-bM6VXu3Pfer1hxBly0VjL71ceR2Yw.4VbAfnTbeYyMOZDa
+
+## Week 4 - Pandas
+
+* Day 1: https://zoom.us/rec/share/a5-lscYtmaTkt_Hp5R-wY2EWhuK6dfAQW-ACLsI_hb2S-buv5VX7yqnnnrLisbmS.--PFlyczudiDSWwa
+
