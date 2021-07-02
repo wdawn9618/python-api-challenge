@@ -30,3 +30,4 @@
 
 * Day 1: https://zoom.us/rec/share/a5-lscYtmaTkt_Hp5R-wY2EWhuK6dfAQW-ACLsI_hb2S-buv5VX7yqnnnrLisbmS.--PFlyczudiDSWwa
 
+* Day 2: https://zoom.us/rec/share/adiwJ4HwS3sPEJsg0vERlk1btsfuIvosGpPYlkZ2nTXQ1MpWFMlXOOZBSNufmD4e.1xg1R85LtfAmPkK0
