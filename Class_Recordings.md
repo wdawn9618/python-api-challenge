@@ -36,7 +36,7 @@
 
 ## Week 5 - Matplotlib
 
-* Day 1:
+* Day 1: https://zoom.us/rec/share/wyMXy2DXn_sRn24USRbnqAUBopV5kOthqeMMb-xFtzjAOKLPgHx9b7gevGHngI2m.KJoaz0bopmjgugvo
 
 * Day 2:
 
