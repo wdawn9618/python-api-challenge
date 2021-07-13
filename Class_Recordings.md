@@ -38,6 +38,6 @@
 
 * Day 1: https://zoom.us/rec/share/wyMXy2DXn_sRn24USRbnqAUBopV5kOthqeMMb-xFtzjAOKLPgHx9b7gevGHngI2m.KJoaz0bopmjgugvo
 
-* Day 2:
+* Day 2: https://zoom.us/rec/share/ad2cIaQY1n2JQynNEnCebxyzwkephKuC7z2bDGWwoJiDhVYUOzkHsR4QWxHPv1VE.f-l5gWAGL5JTIzcN
 
 * Day 3: 
