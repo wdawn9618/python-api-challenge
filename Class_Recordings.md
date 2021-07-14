@@ -40,4 +40,12 @@
 
 * Day 2: https://zoom.us/rec/share/ad2cIaQY1n2JQynNEnCebxyzwkephKuC7z2bDGWwoJiDhVYUOzkHsR4QWxHPv1VE.f-l5gWAGL5JTIzcN
 
-* Day 3: 
+* Day 3: https://zoom.us/rec/share/2gj_G4PKWlgl_P7zHvIaJEFe2ZUR7a2zrCu-F9mU0UA-3NOr4VplQVjP1SKIlOIa.UumUfRK8niaIIhRL
+
+## Week 6 - Python APIs
+
+* Day 1:
+
+* Day 2:
+
+* Day 3:
