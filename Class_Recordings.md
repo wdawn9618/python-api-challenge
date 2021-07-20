@@ -46,6 +46,6 @@
 
 * Day 1: https://zoom.us/rec/share/NRETI9VU_9eT5K6EZv_2btm6vDIE_aAE49CXBH_YGCoRK7bdtxVtMgUpvPFONVTh.ycJ9tZj_XbAoIgx-?startTime=1626385557000
 
-* Day 2:
+* Day 2:https://zoom.us/rec/share/QcaA3lYXn5tLC30Z6NM8XMXRKEyPqQH-irjNoFXNlivMgITwvij6yRmiWtYehkJ2.lsWFy4O0Xznpz5J0
 
 * Day 3:
